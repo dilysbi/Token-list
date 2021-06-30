@@ -1,0 +1,22 @@
+{
+  "tokens": [
+    {
+      "name": "CRO Token",
+      "symbol": "CRO",
+      "address": "0xd8D04D86e15329256dC601f3EB8F2E22E982a284",
+      "chainId": 56,
+      "decimals": 18,
+      "position": 5,
+      "logoURI": "https://raw.githubusercontent.com/HoraOS/media/main/LOGO%20HORA%20OS.png"
+    },
+    {
+      "name": "SPE Token",
+      "symbol": "SPE",
+      "address": "0x735436F172c647911A1ea425C56B3d4b2fC20A90",
+      "chainId": 56,
+      "decimals": 18,
+      "position": 1,
+      "logoURI": "https://avatars.githubusercontent.com/u/85615971?v=4"
+    }
+  ]
+}
