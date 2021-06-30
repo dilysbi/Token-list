@@ -1,18 +1,18 @@
 {
   "tokens": [
     {
-      "name": "HORA Os",
-      "symbol": "HORA",
-      "address": "0xa6fd7b5c9eee30309b00b65436a284e2053251e5",
+      "name": "CRO Token",
+      "symbol": "CRO",
+      "address": "0xd8D04D86e15329256dC601f3EB8F2E22E982a284",
       "chainId": 56,
       "decimals": 18,
       "position": 5,
       "logoURI": "https://raw.githubusercontent.com/HoraOS/media/main/LOGO%20HORA%20OS.png"
     },
     {
-      "name": "DOLP Token",
-      "symbol": "DOLP",
-      "address": "0x54e5721ea9c828e725ae6e3f640f69928b696b3e",
+      "name": "SPE Token",
+      "symbol": "SPE",
+      "address": "0x735436F172c647911A1ea425C56B3d4b2fC20A90",
       "chainId": 56,
       "decimals": 18,
       "position": 1,
