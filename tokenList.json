@@ -1,12 +1,12 @@
 [
   {
-    "name": "HORA Token",
+    "name": "HORA Os",
     "symbol": "HORA",
     "address": "0xa6fd7b5c9eee30309b00b65436a284e2053251e5",
     "chainId": 56,
     "decimals": 18,
-    "position": 1,
-    "logoURI": "https://avatars.githubusercontent.com/u/85615971?v=4"
+    "position": 5,
+    "logoURI": "https://raw.githubusercontent.com/HoraOS/media/main/LOGO%20HORA%20OS.png"
   },
   {
     "name": "DOLP Token",
