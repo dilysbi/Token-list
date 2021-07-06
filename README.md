@@ -72,6 +72,15 @@
       root/0x1a26613d922cBb776887BCF91dAf45Ac44da6aeA/180987475.json
       ```
 
+      `Data`
+      
+      ```
+      {
+        '0x1a26613d922cBb776887BCF91dAf45Ac44da6aeA': 1,
+        ...
+      }
+      ```
+      
 ## Rule
 
       1. Required json file.
