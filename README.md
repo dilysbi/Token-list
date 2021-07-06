@@ -1,7 +1,7 @@
 
 # Infomation and rule
 
-1. Folder name tokenList.json is a campaign lists.
+1. Folder name tokenList.json is a campaign list.
     
     `How to add an token.`
     
